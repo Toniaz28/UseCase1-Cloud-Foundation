@@ -44,24 +44,6 @@ UseCase1-Cloud-Foundation/
 
 ---
 
-## 📸 Project Evidence (Screenshots)
-
-### Resource Group & Tagging
-![Resource Group](screenshots/01-resource-group-tags.png)
-
-### VNet & Subnet Design
-![VNet](screenshots/02-vnet-subnets.png)
-
-### NSG Rules (Web Layer)
-![NSG Web](screenshots/03a-nsg-web-rules.png)
-
-### VM Deployment & NGINX
-![VM](screenshots/04b-nginx-browser.png)
-
-### Storage Configuration
-![Storage](screenshots/05-storage-overview.png)
-
----
 
 ## 🧠 Key Learnings
 
